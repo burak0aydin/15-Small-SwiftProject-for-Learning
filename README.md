@@ -1,2 +1,2 @@
 # 15-Small-SwiftProject-for-Learning
-15 Swit Projects
+15 Swift Projects
